@@ -1,5 +1,3 @@
----
-
 # NBA Player Performance Analysis (2025 Season)
 
 ## Overview
@@ -131,5 +129,6 @@ jupyter notebook final_project_complete_notebook.ipynb
 ```
 
 ---
+
 
 
