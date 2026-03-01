@@ -4,8 +4,6 @@
 
 ## Overview
 
-This project analyzes NBA player statistics from the 2025 season to create advanced performance metrics and generate a synthetic scoring model.
-
 The project focuses on:
 
 * Cleaning and preprocessing raw player totals data
@@ -133,4 +131,5 @@ jupyter notebook final_project_complete_notebook.ipynb
 ```
 
 ---
+
 
